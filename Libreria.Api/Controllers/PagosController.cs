@@ -25,22 +25,30 @@ namespace Libreria.Api.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Pago>>> GetPagos()
         {
-            return await _context.Pagos.ToListAsync();
+            var pagos = await _context.Pagos
+                .Include(p => p.Inscripcion)
+                .Include(p => p.Evento)
+                .ToListAsync();
+
+            return Ok(pagos);
         }
 
         // GET: api/Pagos/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Pago>> GetPago(int id)
         {
-            var pago = await _context.Pagos.FindAsync(id);
+            var pago = await _context.Pagos
+                .Include(p => p.Inscripcion)
+                .Include(p => p.Evento)
+                .FirstOrDefaultAsync(p => p.PagoId == id);
 
             if (pago == null)
             {
                 return NotFound();
             }
 
-            return pago;
-        }
+            return Ok(pago);
+        } 
 
         // PUT: api/Pagos/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754

@@ -25,21 +25,29 @@ namespace Libreria.Api.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Participante>>> GetParticipantes()
         {
-            return await _context.Participantes.ToListAsync();
+            var participantes = await _context.Participantes
+                .Include(p => p.Inscripciones)
+                .Include(p => p.Asistencias)
+                .ToListAsync();
+
+            return Ok(participantes);
         }
 
         // GET: api/Participantes/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Participante>> GetParticipante(int id)
         {
-            var participante = await _context.Participantes.FindAsync(id);
+            var participante = await _context.Participantes
+                .Include(p => p.Inscripciones)
+                .Include(p => p.Asistencias)
+                .FirstOrDefaultAsync(p => p.ParticipanteId == id);
 
             if (participante == null)
             {
                 return NotFound();
             }
 
-            return participante;
+            return Ok(participante);
         }
 
         // PUT: api/Participantes/5

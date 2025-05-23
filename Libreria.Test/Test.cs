@@ -21,7 +21,7 @@ namespace Libreria.Test
 
             var evento = Crud<Evento>.Create(new Evento
             {
-                EventoId = 0,  
+                 
                 Nombre = "Conferencia de Tecnología",
                 FechaInicio = new DateTime(2025, 6, 15, 9, 0, 0),
                 FechaFin = new DateTime(2025, 6, 15, 17, 0, 0),
@@ -68,7 +68,6 @@ namespace Libreria.Test
             // Crear un objeto de la clase Ponente
             var ponente = Crud<Ponente>.Create(new Ponente
             {
-                PonenteId = 0,   // Para crear un registro nuevo (0 es usualmente usado para indicar que el ID será asignado automáticamente)
                 Nombres = "Carlos",
                 Apellidos = "Martínez",
                 Institucion = "Universidad Nacional",
@@ -116,7 +115,6 @@ namespace Libreria.Test
             // Crear un objeto de la clase Participante
             var participante = Crud<Participante>.Create(new Participante
             {
-                ParticipanteId = 0,   // Para crear un registro nuevo (0 es usado para indicar que el ID será asignado automáticamente)
                 Dni = "1234567890",
                 Nombres = "Ana",
                 Apellidos = "Gomez",
@@ -165,7 +163,6 @@ namespace Libreria.Test
             // Crear un objeto de la clase Inscripcion
             var inscripcion = Crud<Inscripcion>.Create(new Inscripcion
             {
-                InscripcionId = 0,   // Para crear un registro nuevo (0 es usado para indicar que el ID será asignado automáticamente)
                 EstadoPago = true,
                 FechaInscripcion = DateTime.Now,
                 EventoId = 1,   // ID del evento (asumiendo que el evento con ID 1 existe)
@@ -211,7 +208,6 @@ namespace Libreria.Test
             // Crear un objeto de la clase Certificado
             var certificado = Crud<Certificado>.Create(new Certificado
             {
-                CertificadoId = 0,   // Para crear un registro nuevo (0 es usado para indicar que el ID será asignado automáticamente)
                 Detalles = "Certificado de participación en el evento XYZ",
                 InscripcionId = 1  // ID de la inscripción (asumiendo que la inscripción con ID 1 existe)
             }).Result;
@@ -255,7 +251,6 @@ namespace Libreria.Test
             // Crear un nuevo Pago
             var nuevoPago = Crud<Pago>.Create(new Pago
             {
-                PagoId = 0,
                 Monto = 50.00m,
                 FechaPago = DateTime.Now,
                 MetodoPago = "Tarjeta",
@@ -305,7 +300,6 @@ namespace Libreria.Test
             // Crear una nueva sesión
             var nuevaSesion = Crud<Sesion>.Create(new Sesion
             {
-                SesionId = 0,
                 Nombre = "Taller de Innovación",
                 HoraInicio = DateTime.Today.AddHours(9),
                 HoraFin = DateTime.Today.AddHours(11),
@@ -353,7 +347,6 @@ namespace Libreria.Test
             // Crear una nueva sala
             var nuevaSala = Crud<Sala>.Create(new Sala
             {
-                SalaId = 0,
                 Nombre = "Sala Magna",
                 Capacidad = 100,
                 Ubicacion = "Edificio Central, Piso 2"
@@ -400,7 +393,6 @@ namespace Libreria.Test
             // Crear una nueva asistencia
             var nuevaAsistencia = Crud<Asistencia>.Create(new Asistencia
             {
-                AsistenciaId = 0,
                 FechaRegistro = DateTime.Now,
                 Estado = true,
                 ParticipanteId = 1, // Asegúrate que exista este participante
@@ -447,7 +439,6 @@ namespace Libreria.Test
             // Crear un nuevo historial de evento
             var nuevoHistorial = Crud<HistorialEvento>.Create(new HistorialEvento
             {
-                HistolialEventoId = 0,
                 Fecha = DateTime.Now,
                 participantes = 100,
                 recaudacion = 1500.75m,
@@ -495,7 +486,6 @@ namespace Libreria.Test
             // Crear nueva relación Evento-Ponente
             var nuevaRelacion = Crud<EventoPonente>.Create(new EventoPonente
             {
-                EventoPonenteId = 0,
                 EventoId = 1,    // Asegúrate de que este evento exista
                 PonenteId = 1    // Asegúrate de que este ponente exista
             }).Result;

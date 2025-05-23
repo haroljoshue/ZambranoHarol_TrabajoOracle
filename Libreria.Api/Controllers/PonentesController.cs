@@ -25,22 +25,31 @@ namespace Libreria.Api.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Ponente>>> GetPonentes()
         {
-            return await _context.Ponentes.ToListAsync();
+            var ponentes = await _context.Ponentes
+                .Include(p => p.EventoPonentes)
+                    .ThenInclude(ep => ep.Evento)
+                .ToListAsync();
+
+            return Ok(ponentes);
         }
 
         // GET: api/Ponentes/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Ponente>> GetPonente(int id)
         {
-            var ponente = await _context.Ponentes.FindAsync(id);
+            var ponente = await _context.Ponentes
+                .Include(p => p.EventoPonentes)
+                    .ThenInclude(ep => ep.Evento)
+                .FirstOrDefaultAsync(p => p.PonenteId == id);
 
             if (ponente == null)
             {
                 return NotFound();
             }
 
-            return ponente;
+            return Ok(ponente);
         }
+
 
         // PUT: api/Ponentes/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754

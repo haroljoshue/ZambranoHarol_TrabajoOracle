@@ -25,22 +25,31 @@ namespace Libreria.Api.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Asistencia>>> GetAsistencias()
         {
-            return await _context.Asistencias.ToListAsync();
+            var asistencias = await _context.Asistencias
+                .Include(a => a.Participante)  // Incluye participante
+                .Include(a => a.Sesion)        // Incluye sesión
+                .ToListAsync();
+
+            return Ok(asistencias);
         }
 
         // GET: api/Asistencias/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Asistencia>> GetAsistencia(int id)
         {
-            var asistencia = await _context.Asistencias.FindAsync(id);
+            var asistencia = await _context.Asistencias
+                .Include(a => a.Participante)  // Incluye participante
+                .Include(a => a.Sesion)        // Incluye sesión
+                .FirstOrDefaultAsync(a => a.AsistenciaId == id);
 
             if (asistencia == null)
             {
                 return NotFound();
             }
 
-            return asistencia;
+            return Ok(asistencia);
         }
+
 
         // PUT: api/Asistencias/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754

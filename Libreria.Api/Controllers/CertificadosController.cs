@@ -27,22 +27,31 @@ namespace Libreria.Api.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Certificado>>> GetCertificados()
         {
-            return await _context.Certificados.ToListAsync();
+            var certificados = await _context.Certificados
+                .Include(c => c.Inscripcion)             // Incluye Inscripcion
+                    .ThenInclude(i => i.Participante)    // Opcional: incluye Participante dentro de Inscripcion
+                .ToListAsync();
+
+            return Ok(certificados);
         }
 
         // GET: api/Certificados/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Certificado>> GetCertificado(int id)
         {
-            var certificado = await _context.Certificados.FindAsync(id);
+            var certificado = await _context.Certificados
+                .Include(c => c.Inscripcion)
+                    .ThenInclude(i => i.Participante)
+                .FirstOrDefaultAsync(c => c.CertificadoId == id);
 
             if (certificado == null)
             {
                 return NotFound();
             }
 
-            return certificado;
+            return Ok(certificado);
         }
+
 
         // PUT: api/Certificados/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754

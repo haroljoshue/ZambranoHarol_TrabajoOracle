@@ -22,3 +22,16 @@ C:\Users\user\Documents\GitHub\Evaluacion\EvaluacionIntegral\Libreria.Api.Consum
 C:\Users\user\Documents\GitHub\Evaluacion\EvaluacionIntegral\Libreria.Api.Consumer\obj\Debug\net8.0\refint\Libreria.Api.Consumer.dll
 C:\Users\user\Documents\GitHub\Evaluacion\EvaluacionIntegral\Libreria.Api.Consumer\obj\Debug\net8.0\Libreria.Api.Consumer.pdb
 C:\Users\user\Documents\GitHub\Evaluacion\EvaluacionIntegral\Libreria.Api.Consumer\obj\Debug\net8.0\ref\Libreria.Api.Consumer.dll
+C:\Users\user\Documents\GitHub\ZambraboHarol_TrabajoOracle\ZambranoHarol_TrabajoOracle\Libreria.Api.Consumer\bin\Debug\net8.0\Libreria.Api.Consumer.deps.json
+C:\Users\user\Documents\GitHub\ZambraboHarol_TrabajoOracle\ZambranoHarol_TrabajoOracle\Libreria.Api.Consumer\bin\Debug\net8.0\Libreria.Api.Consumer.dll
+C:\Users\user\Documents\GitHub\ZambraboHarol_TrabajoOracle\ZambranoHarol_TrabajoOracle\Libreria.Api.Consumer\bin\Debug\net8.0\Libreria.Api.Consumer.pdb
+C:\Users\user\Documents\GitHub\ZambraboHarol_TrabajoOracle\ZambranoHarol_TrabajoOracle\Libreria.Api.Consumer\obj\Debug\net8.0\Libreria.Api.Consumer.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\ZambraboHarol_TrabajoOracle\ZambranoHarol_TrabajoOracle\Libreria.Api.Consumer\obj\Debug\net8.0\Libreria.Api.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\ZambraboHarol_TrabajoOracle\ZambranoHarol_TrabajoOracle\Libreria.Api.Consumer\obj\Debug\net8.0\Libreria.Api.Consumer.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\ZambraboHarol_TrabajoOracle\ZambranoHarol_TrabajoOracle\Libreria.Api.Consumer\obj\Debug\net8.0\Libreria.Api.Consumer.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\ZambraboHarol_TrabajoOracle\ZambranoHarol_TrabajoOracle\Libreria.Api.Consumer\obj\Debug\net8.0\Libreria.Api.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\ZambraboHarol_TrabajoOracle\ZambranoHarol_TrabajoOracle\Libreria.Api.Consumer\obj\Debug\net8.0\Libreria.Api.Consumer.sourcelink.json
+C:\Users\user\Documents\GitHub\ZambraboHarol_TrabajoOracle\ZambranoHarol_TrabajoOracle\Libreria.Api.Consumer\obj\Debug\net8.0\Libreria.Api.Consumer.dll
+C:\Users\user\Documents\GitHub\ZambraboHarol_TrabajoOracle\ZambranoHarol_TrabajoOracle\Libreria.Api.Consumer\obj\Debug\net8.0\refint\Libreria.Api.Consumer.dll
+C:\Users\user\Documents\GitHub\ZambraboHarol_TrabajoOracle\ZambranoHarol_TrabajoOracle\Libreria.Api.Consumer\obj\Debug\net8.0\Libreria.Api.Consumer.pdb
+C:\Users\user\Documents\GitHub\ZambraboHarol_TrabajoOracle\ZambranoHarol_TrabajoOracle\Libreria.Api.Consumer\obj\Debug\net8.0\ref\Libreria.Api.Consumer.dll

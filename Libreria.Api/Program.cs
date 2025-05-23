@@ -15,18 +15,10 @@ namespace Libreria.API
 
             switch (provider)
             {
-                case "MySql":
+                case "Oracle":
                     builder.Services.AddDbContext<AppDbContext>(options =>
-                        options.UseMySql(
-                            builder.Configuration.GetConnectionString("AppDbContextMySql"),
-                            new MySqlServerVersion(new Version(12, 10, 0))
-                        )
-                        .LogTo(Console.WriteLine, LogLevel.Information)
-                        .EnableSensitiveDataLogging());
-                    break;
-                case "SqlServer":
-                    builder.Services.AddDbContext<AppDbContext>(options =>
-                        options.UseSqlServer(builder.Configuration.GetConnectionString("AppDbContextSqlServer"))
+                        options.UseOracle(
+                            builder.Configuration.GetConnectionString("AppDbContextOracle"))
                         .LogTo(Console.WriteLine, LogLevel.Information)
                         .EnableSensitiveDataLogging());
                     break;

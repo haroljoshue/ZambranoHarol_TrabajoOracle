@@ -25,21 +25,31 @@ namespace Libreria.Api.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Inscripcion>>> GetInscripciones()
         {
-            return await _context.Inscripciones.ToListAsync();
+            var inscripciones = await _context.Inscripciones
+                .Include(i => i.Evento)
+                .Include(i => i.Participante)
+                .Include(i => i.Pago)
+                .ToListAsync();
+
+            return Ok(inscripciones);
         }
 
         // GET: api/Inscripciones/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Inscripcion>> GetInscripcion(int id)
         {
-            var inscripcion = await _context.Inscripciones.FindAsync(id);
+            var inscripcion = await _context.Inscripciones
+                .Include(i => i.Evento)
+                .Include(i => i.Participante)
+                .Include(i => i.Pago)
+                .FirstOrDefaultAsync(i => i.InscripcionId == id);
 
             if (inscripcion == null)
             {
                 return NotFound();
             }
 
-            return inscripcion;
+            return Ok(inscripcion);
         }
 
         // PUT: api/Inscripciones/5

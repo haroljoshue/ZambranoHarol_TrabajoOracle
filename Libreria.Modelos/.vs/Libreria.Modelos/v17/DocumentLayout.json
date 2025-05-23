@@ -6,23 +6,102 @@
       "AbsoluteMoniker": "D:0:0:{0FC07187-2EEA-4722-8324-6458795FF9A4}|..\\Libreria.Test\\Libreria.Test.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.test\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{02C107C6-6909-49A3-B703-DBB51383A92D}|..\\Libreria.Api\\Libreria.Api.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.api\\controllers\\asistenciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C107C6-6909-49A3-B703-DBB51383A92D}|..\\Libreria.Api\\Libreria.Api.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.modelos\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|solutionrelative:asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C107C6-6909-49A3-B703-DBB51383A92D}|..\\Libreria.Api\\Libreria.Api.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.api\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C107C6-6909-49A3-B703-DBB51383A92D}|..\\Libreria.Api\\Libreria.Api.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.api\\controllers\\sesionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.modelos\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|solutionrelative:sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C107C6-6909-49A3-B703-DBB51383A92D}|..\\Libreria.Api\\Libreria.Api.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.api\\controllers\\salascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.modelos\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|solutionrelative:sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C107C6-6909-49A3-B703-DBB51383A92D}|..\\Libreria.Api\\Libreria.Api.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.api\\controllers\\ponentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C107C6-6909-49A3-B703-DBB51383A92D}|..\\Libreria.Api\\Libreria.Api.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.api\\controllers\\participantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.modelos\\ponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|solutionrelative:ponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\GitHub\\Evaluacion\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250521143950_SqlServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.modelos\\participante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|solutionrelative:participante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.modelos\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|solutionrelative:inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C107C6-6909-49A3-B703-DBB51383A92D}|..\\Libreria.Api\\Libreria.Api.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.api\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.modelos\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|solutionrelative:pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C107C6-6909-49A3-B703-DBB51383A92D}|..\\Libreria.Api\\Libreria.Api.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.api\\controllers\\historialeventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.modelos\\historialevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|solutionrelative:historialevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C107C6-6909-49A3-B703-DBB51383A92D}|..\\Libreria.Api\\Libreria.Api.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.api\\controllers\\eventoponentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.modelos\\eventoponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|solutionrelative:eventoponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.modelos\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|solutionrelative:asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02C107C6-6909-49A3-B703-DBB51383A92D}|..\\Libreria.Api\\Libreria.Api.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.api\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.modelos\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|solutionrelative:evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C107C6-6909-49A3-B703-DBB51383A92D}|..\\Libreria.Api\\Libreria.Api.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.api\\controllers\\certificadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.modelos\\certificado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|solutionrelative:certificado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C107C6-6909-49A3-B703-DBB51383A92D}|..\\Libreria.Api\\Libreria.Api.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C107C6-6909-49A3-B703-DBB51383A92D}|..\\Libreria.Api\\Libreria.Api.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C107C6-6909-49A3-B703-DBB51383A92D}|..\\Libreria.Api\\Libreria.Api.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.api\\libreria.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Migrations\\20250523172846_Oracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\GitHub\\Evaluacion\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250521143950_SqlServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509204133_MySql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -34,35 +113,11 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509201152_Sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.modelos\\certificado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|solutionrelative:certificado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.modelos\\libreria.modelos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|solutionrelative:libreria.modelos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.modelos\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|solutionrelative:inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.modelos\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|solutionrelative:pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.modelos\\participante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|solutionrelative:participante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509183242_SqlServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.modelos\\historialevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|solutionrelative:historialevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.modelos\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0D3E508-03D2-4073-9DC8-488D2C4B4E10}|Libreria.Modelos.csproj|solutionrelative:evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -93,6 +148,9 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\GitHub\\Evaluacion\\EvaluacionIntegral\\Libreria.Api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C107C6-6909-49A3-B703-DBB51383A92D}|..\\Libreria.Api\\Libreria.Api.csproj|c:\\users\\user\\documents\\github\\zambraboharol_trabajooracle\\zambranoharol_trabajooracle\\libreria.api\\migrations\\20250523195250_oracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,7 +160,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,43 +176,406 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAM8UAAAAAAAAAAAvwO0UAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-23T21:27:57.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HistorialEventosController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\HistorialEventosController.cs",
+              "RelativeDocumentMoniker": "..\\Libreria.Api\\Controllers\\HistorialEventosController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\HistorialEventosController.cs",
+              "RelativeToolTip": "..\\Libreria.Api\\Controllers\\HistorialEventosController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:09:39.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Inscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Inscripcion.cs",
+              "RelativeDocumentMoniker": "Inscripcion.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Inscripcion.cs",
+              "RelativeToolTip": "Inscripcion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T18:18:38.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sesion.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Sesion.cs",
+              "RelativeDocumentMoniker": "Sesion.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Sesion.cs",
+              "RelativeToolTip": "Sesion.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:20:27.473Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Test.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Test\\Test.cs",
               "RelativeDocumentMoniker": "..\\Libreria.Test\\Test.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Test\\Test.cs",
               "RelativeToolTip": "..\\Libreria.Test\\Test.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYBAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T15:21:47.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250521143950_SqlServer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Evaluacion\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250521143950_SqlServer.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Evaluacion\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250521143950_SqlServer.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Evaluacion\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250521143950_SqlServer.cs",
-              "RelativeToolTip": "..\\..\\..\\Evaluacion\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250521143950_SqlServer.cs",
+              "DocumentIndex": 10,
+              "Title": "PonentesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\PonentesController.cs",
+              "RelativeDocumentMoniker": "..\\Libreria.Api\\Controllers\\PonentesController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\PonentesController.cs",
+              "RelativeToolTip": "..\\Libreria.Api\\Controllers\\PonentesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T14:39:50.644Z"
+              "WhenOpened": "2025-05-23T21:12:25.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsistenciasController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\AsistenciasController.cs",
+              "RelativeDocumentMoniker": "..\\Libreria.Api\\Controllers\\AsistenciasController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\AsistenciasController.cs",
+              "RelativeToolTip": "..\\Libreria.Api\\Controllers\\AsistenciasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:05:33.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Asistencia.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Asistencia.cs",
+              "RelativeDocumentMoniker": "Asistencia.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Asistencia.cs",
+              "RelativeToolTip": "Asistencia.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:10:27.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Libreria.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Program.cs",
+              "RelativeToolTip": "..\\Libreria.Api\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:12:10.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InscripcionesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\InscripcionesController.cs",
+              "RelativeDocumentMoniker": "..\\Libreria.Api\\Controllers\\InscripcionesController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\InscripcionesController.cs",
+              "RelativeToolTip": "..\\Libreria.Api\\Controllers\\InscripcionesController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwD0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:10:19.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PagosController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\PagosController.cs",
+              "RelativeDocumentMoniker": "..\\Libreria.Api\\Controllers\\PagosController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\PagosController.cs",
+              "RelativeToolTip": "..\\Libreria.Api\\Controllers\\PagosController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:10:53.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ParticipantesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\ParticipantesController.cs",
+              "RelativeDocumentMoniker": "..\\Libreria.Api\\Controllers\\ParticipantesController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\ParticipantesController.cs",
+              "RelativeToolTip": "..\\Libreria.Api\\Controllers\\ParticipantesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:11:44.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalasController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\SalasController.cs",
+              "RelativeDocumentMoniker": "..\\Libreria.Api\\Controllers\\SalasController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\SalasController.cs",
+              "RelativeToolTip": "..\\Libreria.Api\\Controllers\\SalasController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:13:36.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SesionesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\SesionesController.cs",
+              "RelativeDocumentMoniker": "..\\Libreria.Api\\Controllers\\SesionesController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\SesionesController.cs",
+              "RelativeToolTip": "..\\Libreria.Api\\Controllers\\SesionesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:14:12.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventoPonentesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\EventoPonentesController.cs",
+              "RelativeDocumentMoniker": "..\\Libreria.Api\\Controllers\\EventoPonentesController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\EventoPonentesController.cs",
+              "RelativeToolTip": "..\\Libreria.Api\\Controllers\\EventoPonentesController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA8wDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:08:26.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sala.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Sala.cs",
+              "RelativeDocumentMoniker": "Sala.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Sala.cs",
+              "RelativeToolTip": "Sala.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:29:07.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EventosController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\EventosController.cs",
+              "RelativeDocumentMoniker": "..\\Libreria.Api\\Controllers\\EventosController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\EventosController.cs",
+              "RelativeToolTip": "..\\Libreria.Api\\Controllers\\EventosController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:07:39.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ponente.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Ponente.cs",
+              "RelativeDocumentMoniker": "Ponente.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Ponente.cs",
+              "RelativeToolTip": "Ponente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T18:16:24.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CertificadosController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\CertificadosController.cs",
+              "RelativeDocumentMoniker": "..\\Libreria.Api\\Controllers\\CertificadosController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Controllers\\CertificadosController.cs",
+              "RelativeToolTip": "..\\Libreria.Api\\Controllers\\CertificadosController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:06:50.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Participante.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Participante.cs",
+              "RelativeDocumentMoniker": "Participante.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Participante.cs",
+              "RelativeToolTip": "Participante.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T18:17:22.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Pago.cs",
+              "RelativeDocumentMoniker": "Pago.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Pago.cs",
+              "RelativeToolTip": "Pago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:38:23.357Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "Test.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Evaluacion\\EvaluacionIntegral\\Libreria.Test\\Test.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Evaluacion\\EvaluacionIntegral\\Libreria.Test\\Test.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Evaluacion\\EvaluacionIntegral\\Libreria.Test\\Test.cs",
-              "RelativeToolTip": "..\\..\\..\\Evaluacion\\EvaluacionIntegral\\Libreria.Test\\Test.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Libreria.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\appsettings.json",
+              "RelativeToolTip": "..\\Libreria.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T17:14:54.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Certificado.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Certificado.cs",
+              "RelativeDocumentMoniker": "Certificado.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Certificado.cs",
+              "RelativeToolTip": "Certificado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T14:18:11.342Z"
+              "WhenOpened": "2025-05-09T14:40:27.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HistorialEvento.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\HistorialEvento.cs",
+              "RelativeDocumentMoniker": "HistorialEvento.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\HistorialEvento.cs",
+              "RelativeToolTip": "HistorialEvento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:42:08.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EventoPonente.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\EventoPonente.cs",
+              "RelativeDocumentMoniker": "EventoPonente.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\EventoPonente.cs",
+              "RelativeToolTip": "EventoPonente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T03:00:57.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Evento.cs",
+              "RelativeDocumentMoniker": "Evento.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Evento.cs",
+              "RelativeToolTip": "Evento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:16:47.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250523195250_Oracle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Migrations\\20250523195250_Oracle.cs",
+              "RelativeDocumentMoniker": "..\\Libreria.Api\\Migrations\\20250523195250_Oracle.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Migrations\\20250523195250_Oracle.cs",
+              "RelativeToolTip": "..\\Libreria.Api\\Migrations\\20250523195250_Oracle.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T19:52:50.593Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Libreria.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Libreria.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:15:46.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Libreria.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Libreria.Api.csproj",
+              "RelativeDocumentMoniker": "..\\Libreria.Api\\Libreria.Api.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Libreria.Api.csproj",
+              "RelativeToolTip": "..\\Libreria.Api\\Libreria.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T17:05:12.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250523172846_Oracle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Migrations\\20250523172846_Oracle.cs",
+              "RelativeDocumentMoniker": "..\\Libreria.Api\\Migrations\\20250523172846_Oracle.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Api\\Migrations\\20250523172846_Oracle.cs",
+              "RelativeToolTip": "..\\Libreria.Api\\Migrations\\20250523172846_Oracle.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAYwGcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:28:46.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T18:29:15.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250509201152_Sql.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509201152_Sql.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509201152_Sql.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509201152_Sql.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509201152_Sql.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:11:53.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250509204133_MySql.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509204133_MySql.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509204133_MySql.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509204133_MySql.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509204133_MySql.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:41:33.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Evaluacion\\EvaluacionIntegral\\Libreria.Api\\appsettings.json",
               "RelativeDocumentMoniker": "..\\..\\..\\Evaluacion\\EvaluacionIntegral\\Libreria.Api\\appsettings.json",
@@ -166,78 +587,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EventoPonente.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\EventoPonente.cs",
-              "RelativeDocumentMoniker": "EventoPonente.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\EventoPonente.cs",
-              "RelativeToolTip": "EventoPonente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 43,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Evaluacion\\EvaluacionIntegral\\Libreria.Test\\Test.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Evaluacion\\EvaluacionIntegral\\Libreria.Test\\Test.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Evaluacion\\EvaluacionIntegral\\Libreria.Test\\Test.cs",
+              "RelativeToolTip": "..\\..\\..\\Evaluacion\\EvaluacionIntegral\\Libreria.Test\\Test.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T03:00:57.078Z"
+              "WhenOpened": "2025-05-21T14:18:11.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250509204133_MySql.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509204133_MySql.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509204133_MySql.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509204133_MySql.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509204133_MySql.cs",
+              "DocumentIndex": 29,
+              "Title": "20250521143950_SqlServer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Evaluacion\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250521143950_SqlServer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Evaluacion\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250521143950_SqlServer.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Evaluacion\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250521143950_SqlServer.cs",
+              "RelativeToolTip": "..\\..\\..\\Evaluacion\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250521143950_SqlServer.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T20:41:33.804Z"
+              "WhenOpened": "2025-05-21T14:39:50.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250509201152_Sql.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509201152_Sql.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509201152_Sql.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509201152_Sql.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509201152_Sql.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T20:11:53.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Program.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T18:29:15.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ponente.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Ponente.cs",
-              "RelativeDocumentMoniker": "Ponente.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Ponente.cs",
-              "RelativeToolTip": "Ponente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T18:16:24.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Sesion.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Sesion.cs",
-              "RelativeDocumentMoniker": "Sesion.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Sesion.cs",
-              "RelativeToolTip": "Sesion.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T14:20:27.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 42,
               "Title": "HistorialEventosController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Evaluacion\\EvaluacionIntegral\\Libreria.Api\\Controllers\\HistorialEventosController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Evaluacion\\EvaluacionIntegral\\Libreria.Api\\Controllers\\HistorialEventosController.cs",
@@ -249,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 41,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Evaluacion\\EvaluacionIntegral\\Libreria.Api\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Evaluacion\\EvaluacionIntegral\\Libreria.Api\\Program.cs",
@@ -261,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 36,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\appsettings.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\EvaluacionIntegral\\Libreria.Api\\appsettings.json",
@@ -272,7 +645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 37,
               "Title": "Test.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Test\\Test.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\EvaluacionIntegral\\Libreria.Test\\Test.cs",
@@ -283,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 38,
               "Title": "CertificadosController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Controllers\\CertificadosController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Controllers\\CertificadosController.cs",
@@ -294,7 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 33,
               "Title": "Libreria.Modelos.csproj",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Libreria.Modelos.csproj",
               "RelativeDocumentMoniker": "Libreria.Modelos.csproj",
@@ -302,11 +675,12 @@
               "RelativeToolTip": "Libreria.Modelos.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-09T19:32:21.564Z"
+              "WhenOpened": "2025-05-09T19:32:21.564Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 39,
               "Title": "Libreria.Api.csproj",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Libreria.Api.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Libreria.Api.csproj",
@@ -317,19 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Asistencia.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Asistencia.cs",
-              "RelativeDocumentMoniker": "Asistencia.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Asistencia.cs",
-              "RelativeToolTip": "Asistencia.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T19:10:27.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 31,
               "Title": "20250509201330_SqlServer.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509201330_SqlServer.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509201330_SqlServer.cs",
@@ -340,19 +702,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Certificado.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Certificado.cs",
-              "RelativeDocumentMoniker": "Certificado.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Certificado.cs",
-              "RelativeToolTip": "Certificado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T14:40:27.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 40,
               "Title": "Libreria.Api.Consumer.csproj",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api.Consumer\\Libreria.Api.Consumer.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\EvaluacionIntegral\\Libreria.Api.Consumer\\Libreria.Api.Consumer.csproj",
@@ -363,7 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 34,
               "Title": "20250509183242_SqlServer.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509183242_SqlServer.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509183242_SqlServer.cs",
@@ -371,66 +721,6 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\EvaluacionIntegral\\Libreria.Api\\Migrations\\20250509183242_SqlServer.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T18:32:43.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Inscripcion.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Inscripcion.cs",
-              "RelativeDocumentMoniker": "Inscripcion.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Inscripcion.cs",
-              "RelativeToolTip": "Inscripcion.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T18:18:38.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Participante.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Participante.cs",
-              "RelativeDocumentMoniker": "Participante.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Participante.cs",
-              "RelativeToolTip": "Participante.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T18:17:22.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Evento.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Evento.cs",
-              "RelativeDocumentMoniker": "Evento.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Evento.cs",
-              "RelativeToolTip": "Evento.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T14:16:47.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Pago.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Pago.cs",
-              "RelativeDocumentMoniker": "Pago.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\Pago.cs",
-              "RelativeToolTip": "Pago.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T14:38:23.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HistorialEvento.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\HistorialEvento.cs",
-              "RelativeDocumentMoniker": "HistorialEvento.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ZambraboHarol_TrabajoOracle\\ZambranoHarol_TrabajoOracle\\Libreria.Modelos\\HistorialEvento.cs",
-              "RelativeToolTip": "HistorialEvento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T14:42:08.541Z"
             }
           ]
         },

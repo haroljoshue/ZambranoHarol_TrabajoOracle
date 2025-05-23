@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -11,6 +12,7 @@ namespace Libreria.Modelos
     {
         [Key]
         public int PagoId { get; set; }
+        [Precision(10, 2)]
         public decimal Monto { get; set; }
         public DateTime FechaPago { get; set; }
         public string MetodoPago { get; set; }

@@ -3,8 +3,8 @@ using System;
 using Libreria.Api.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
-using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
+using Oracle.EntityFrameworkCore.Metadata;
 
 #nullable disable
 
@@ -17,30 +17,30 @@ namespace Libreria.Api.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.15")
+                .HasAnnotation("ProductVersion", "9.0.0")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
-            SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+            OracleModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
             modelBuilder.Entity("Libreria.Modelos.Asistencia", b =>
                 {
                     b.Property<int>("AsistenciaId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("AsistenciaId"));
+                    OraclePropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("AsistenciaId"));
 
                     b.Property<bool>("Estado")
-                        .HasColumnType("bit");
+                        .HasColumnType("BOOLEAN");
 
                     b.Property<DateTime>("FechaRegistro")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("TIMESTAMP(7)");
 
                     b.Property<int>("ParticipanteId")
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
                     b.Property<int>("SesionId")
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
                     b.HasKey("AsistenciaId");
 
@@ -55,16 +55,16 @@ namespace Libreria.Api.Migrations
                 {
                     b.Property<int>("CertificadoId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CertificadoId"));
+                    OraclePropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CertificadoId"));
 
                     b.Property<string>("Detalles")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.Property<int>("InscripcionId")
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
                     b.HasKey("CertificadoId");
 
@@ -77,38 +77,39 @@ namespace Libreria.Api.Migrations
                 {
                     b.Property<int>("EventoId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("EventoId"));
+                    OraclePropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("EventoId"));
 
                     b.Property<string>("Descripcion")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.Property<DateTime>("FechaFin")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("TIMESTAMP(7)");
 
                     b.Property<DateTime>("FechaInicio")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("TIMESTAMP(7)");
 
                     b.Property<string>("Lugar")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.Property<string>("Modalidad")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.Property<string>("Nombre")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.Property<decimal>("Precio")
-                        .HasColumnType("decimal(18,2)");
+                        .HasPrecision(10, 2)
+                        .HasColumnType("DECIMAL(10,2)");
 
                     b.Property<string>("Tipo")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.HasKey("EventoId");
 
@@ -119,15 +120,15 @@ namespace Libreria.Api.Migrations
                 {
                     b.Property<int>("EventoPonenteId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("EventoPonenteId"));
+                    OraclePropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("EventoPonenteId"));
 
                     b.Property<int>("EventoId")
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
                     b.Property<int>("PonenteId")
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
                     b.HasKey("EventoPonenteId");
 
@@ -142,24 +143,25 @@ namespace Libreria.Api.Migrations
                 {
                     b.Property<int>("HistolialEventoId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("HistolialEventoId"));
+                    OraclePropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("HistolialEventoId"));
 
                     b.Property<int>("EventoId")
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
                     b.Property<DateTime>("Fecha")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("TIMESTAMP(7)");
 
                     b.Property<int>("certificados")
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
                     b.Property<int>("participantes")
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
                     b.Property<decimal>("recaudacion")
-                        .HasColumnType("decimal(18,2)");
+                        .HasPrecision(10, 2)
+                        .HasColumnType("DECIMAL(10,2)");
 
                     b.HasKey("HistolialEventoId");
 
@@ -172,21 +174,21 @@ namespace Libreria.Api.Migrations
                 {
                     b.Property<int>("InscripcionId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("InscripcionId"));
+                    OraclePropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("InscripcionId"));
 
                     b.Property<bool>("EstadoPago")
-                        .HasColumnType("bit");
+                        .HasColumnType("BOOLEAN");
 
                     b.Property<int>("EventoId")
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
                     b.Property<DateTime>("FechaInscripcion")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("TIMESTAMP(7)");
 
                     b.Property<int>("ParticipanteId")
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
                     b.HasKey("InscripcionId");
 
@@ -201,33 +203,34 @@ namespace Libreria.Api.Migrations
                 {
                     b.Property<int>("PagoId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("PagoId"));
+                    OraclePropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("PagoId"));
 
                     b.Property<string>("ComprobantePago")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.Property<string>("Estado")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.Property<int>("EventoId")
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
                     b.Property<DateTime>("FechaPago")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("TIMESTAMP(7)");
 
                     b.Property<int>("InscripcionId")
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
                     b.Property<string>("MetodoPago")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.Property<decimal>("Monto")
-                        .HasColumnType("decimal(18,2)");
+                        .HasPrecision(10, 2)
+                        .HasColumnType("DECIMAL(10,2)");
 
                     b.HasKey("PagoId");
 
@@ -243,33 +246,33 @@ namespace Libreria.Api.Migrations
                 {
                     b.Property<int>("ParticipanteId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ParticipanteId"));
+                    OraclePropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ParticipanteId"));
 
                     b.Property<string>("Apellidos")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.Property<string>("Correo")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.Property<string>("Dni")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.Property<string>("Institucion")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.Property<string>("Nombres")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.Property<string>("Telefono")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.HasKey("ParticipanteId");
 
@@ -280,29 +283,29 @@ namespace Libreria.Api.Migrations
                 {
                     b.Property<int>("PonenteId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("PonenteId"));
+                    OraclePropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("PonenteId"));
 
                     b.Property<string>("Apellidos")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.Property<string>("Correo")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.Property<string>("Especialidad")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.Property<string>("Institucion")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.Property<string>("Nombres")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.HasKey("PonenteId");
 
@@ -313,20 +316,20 @@ namespace Libreria.Api.Migrations
                 {
                     b.Property<int>("SalaId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SalaId"));
+                    OraclePropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SalaId"));
 
                     b.Property<int>("Capacidad")
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
                     b.Property<string>("Nombre")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.Property<string>("Ubicacion")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.HasKey("SalaId");
 
@@ -337,25 +340,25 @@ namespace Libreria.Api.Migrations
                 {
                     b.Property<int>("SesionId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SesionId"));
+                    OraclePropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SesionId"));
 
                     b.Property<int>("EventoId")
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
                     b.Property<DateTime>("HoraFin")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("TIMESTAMP(7)");
 
                     b.Property<DateTime>("HoraInicio")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("TIMESTAMP(7)");
 
                     b.Property<string>("Nombre")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("NVARCHAR2(2000)");
 
                     b.Property<int>("SalaId")
-                        .HasColumnType("int");
+                        .HasColumnType("NUMBER(10)");
 
                     b.HasKey("SesionId");
 

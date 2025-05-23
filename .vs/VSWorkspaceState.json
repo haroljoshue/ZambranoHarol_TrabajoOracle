@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Libreria.Api",
-    "\\Libreria.Modelos"
+    "\\Libreria.Modelos",
+    "\\Libreria.Test"
   ],
-  "SelectedNode": "\\Libreria.Modelos\\Libreria.Modelos.sln",
+  "SelectedNode": "\\Libreria.Test\\Test.cs",
   "PreviewInSolutionExplorer": false
 }

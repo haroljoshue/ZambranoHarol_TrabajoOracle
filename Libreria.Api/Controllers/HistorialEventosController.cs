@@ -25,21 +25,27 @@ namespace Libreria.Api.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<HistorialEvento>>> GetHistorialEventos()
         {
-            return await _context.HistorialEventos.ToListAsync();
+            var historiales = await _context.HistorialEventos
+                .Include(h => h.Evento)
+                .ToListAsync();
+
+            return Ok(historiales);
         }
 
         // GET: api/HistorialEventos/5
         [HttpGet("{id}")]
         public async Task<ActionResult<HistorialEvento>> GetHistorialEvento(int id)
         {
-            var historialEvento = await _context.HistorialEventos.FindAsync(id);
+            var historial = await _context.HistorialEventos
+                .Include(h => h.Evento)
+                .FirstOrDefaultAsync(h => h.HistolialEventoId == id);
 
-            if (historialEvento == null)
+            if (historial == null)
             {
                 return NotFound();
             }
 
-            return historialEvento;
+            return Ok(historial);
         }
 
         // PUT: api/HistorialEventos/5

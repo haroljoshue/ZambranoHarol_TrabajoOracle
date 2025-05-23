@@ -25,21 +25,26 @@ namespace Libreria.Api.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Sala>>> GetSalas()
         {
-            return await _context.Salas.ToListAsync();
+            var salas = await _context.Salas
+                .Include(s => s.Sesiones)
+                .ToListAsync();
+            return Ok(salas);
         }
 
         // GET: api/Salas/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Sala>> GetSala(int id)
         {
-            var sala = await _context.Salas.FindAsync(id);
+            var sala = await _context.Salas
+                .Include(s => s.Sesiones)
+                .FirstOrDefaultAsync(s => s.SalaId == id);
 
             if (sala == null)
             {
                 return NotFound();
             }
 
-            return sala;
+            return Ok(sala);
         }
 
         // PUT: api/Salas/5

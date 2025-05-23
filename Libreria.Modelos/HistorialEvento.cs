@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -13,6 +14,7 @@ namespace Libreria.Modelos
         public int HistolialEventoId { get; set; }
         public DateTime Fecha { get; set; }
         public int participantes { get; set; }
+        [Precision(10, 2)]
         public decimal recaudacion { get; set; }
         public int certificados { get; set; }
 

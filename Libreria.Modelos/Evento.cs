@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -15,6 +16,7 @@ namespace Libreria.Modelos
         public string Nombre { get; set; }
         public DateTime FechaInicio { get; set; }
         public DateTime FechaFin { get; set; }
+        [Precision(10, 2)]
         public decimal Precio { get; set; }
         public string Tipo { get; set; }
         public string Lugar { get; set; }

@@ -25,22 +25,37 @@ namespace Libreria.Api.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Evento>>> GetEventos()
         {
-            return await _context.Eventos.ToListAsync();
+            var eventos = await _context.Eventos
+                .Include(e => e.Sesiones)
+                .Include(e => e.Inscripciones)
+                .Include(e => e.EventoPonentes)
+                .Include(e => e.HistorialEventos)
+                .Include(e => e.Pagos)
+                .ToListAsync();
+
+            return Ok(eventos);
         }
 
         // GET: api/Eventos/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Evento>> GetEvento(int id)
         {
-            var evento = await _context.Eventos.FindAsync(id);
+            var evento = await _context.Eventos
+                .Include(e => e.Sesiones)
+                .Include(e => e.Inscripciones)
+                .Include(e => e.EventoPonentes)
+                .Include(e => e.HistorialEventos)
+                .Include(e => e.Pagos)
+                .FirstOrDefaultAsync(e => e.EventoId == id);
 
             if (evento == null)
             {
                 return NotFound();
             }
 
-            return evento;
+            return Ok(evento);
         }
+
 
         // PUT: api/Eventos/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
