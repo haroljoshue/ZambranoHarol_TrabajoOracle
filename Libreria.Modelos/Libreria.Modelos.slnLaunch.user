@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "..\\Libreria.Api\\Libreria.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Libreria.Test\\Libreria.Test.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]
